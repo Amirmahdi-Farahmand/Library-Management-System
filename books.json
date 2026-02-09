@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Python Basics",
+    "author": "John Doe",
+    "year": 2021,
+    "total_copies": 3,
+    "available_copies": 3,
+    "borrowed": false
+  },
+  {
+    "name": "Clean Code",
+    "author": "Robert Martin",
+    "year": 2008,
+    "total_copies": 2,
+    "available_copies": 2,
+    "borrowed": false
+  },
+  {
+    "name": "Atomic Habits",
+    "author": "James Clear",
+    "year": 2018,
+    "total_copies": 4,
+    "available_copies": 4,
+    "borrowed": false
+  },
+  {
+    "name": "Blindness",
+    "author": "José Saramago",
+    "year": 1995,
+    "total_copies": 1,
+    "available_copies": 1,
+    "borrowed": false
+  }
+]
