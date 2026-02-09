@@ -36,3 +36,24 @@ Users can borrow and return books, while admins can add/edit/remove books and vi
 
 ## 🗂 File Structure
 
+library_system/
+├── books.json # JSON database of books
+├── books.txt # Optional initial books list
+├── acount_info.csv # User accounts info
+├── library.py # Main library management code
+└── README.md # Project documentation
+
+
+---
+
+## ⚙️ Installation
+
+1. Make sure **Python 3.8+** is installed.
+2. Clone or download the repository.
+3. Optional: Create virtual environment
+   ```bash
+   python -m venv venv
+   source venv/bin/activate   # Linux/macOS
+   venv\Scripts\activate      # Windows
+
+
